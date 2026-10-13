@@ -6,6 +6,7 @@
 
 A recreation of the **NYT Connections puzzle game** built in Unity (C#) using **DOTween** for UI animations. Designed with a focus on event-driven architecture, clean code decoupling, and reactive game-feel.
 
+**Play it here:** [angadrahinj.itch.io/connections](https://angadrahinj.itch.io/connections)
 
 ## 🧩 Architecture
 

@@ -22,12 +22,12 @@ public class ResultUI : MonoBehaviour
 
     private void HandleWin()
     {
-        resultText.text = "You Win!";
+        resultText.text = "You win!";
     }
 
     private void HandleLoss()
     {
-        resultText.text = "You Lose!";
+        resultText.text = "Nice try.";
     }
 
     public void SetPanelEnable(bool enable)
